@@ -155,10 +155,7 @@ docs/postman/todo-api-collection.json
 
 ### Access
 
--   Login URL: http://localhost:8000/login
--   Default credentials:
-    -   Email: admin@example.com
-    -   Password: password
+-   Login URL: http://localhost:8000/login   
 
 ## Development
 
